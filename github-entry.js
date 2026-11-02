@@ -1,5 +1,5 @@
 import {EMPTY_ENTRIES, validateEntry, validateEntries} from './entries.js';
-export const REPOSITORY={owner:'Morrizzzzz',repo:'RCE_BoneInfo',branch:'main',path:'data/entries.json'};
+export const REPOSITORY={owner:'Morrizzzzz',repo:'Bone_Info_invoer',branch:'main',path:'data/entries.json'};
 const encoder=new TextEncoder();
 export function encodeContent(value){let binary='';for(const byte of encoder.encode(value))binary+=String.fromCharCode(byte);return btoa(binary);}
 export function decodeContent(value){return new TextDecoder('utf-8',{fatal:true}).decode(Uint8Array.from(atob(value.replace(/\s/g,'')),c=>c.charCodeAt(0)));}
