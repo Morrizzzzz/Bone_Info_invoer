@@ -1,1 +1,44 @@
-{"schemaVersion":1,"entries":[]}
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "cee5da95dca899b628ac60885f3fdbc4",
+      "createdAt": "2026-11-02T17:59:44.311Z",
+      "cluster": {
+        "Zoonr": "1793642384311887",
+        "Waarnemingsnr": "1",
+        "Onderzoeksmeldingsnr": "1",
+        "X_coord": "250000",
+        "Y_coord": "400000",
+        "Toponiem": "",
+        "Plaats": "Randomcity",
+        "Gemeente": "",
+        "Provincie": "",
+        "Vondstverwerving": "",
+        "Datum_vondst": "",
+        "Complextype": "",
+        "Begin_periode": "",
+        "Beginjaar": "",
+        "Eind_periode": "",
+        "Eindjaar": "",
+        "Opdrachtgever": "",
+        "Onderzoeksinstantie": "",
+        "Onderzoeker": "",
+        "Omvang": "",
+        "Verzamelwijze": "",
+        "Gewogen": "",
+        "Beschrijving": "lorem ipsum",
+        "Invoerder": "Morrizzzzz",
+        "Datum_invoer": "2026-11-02T17:59:44.311Z",
+        "YYYYMMDD_datum_vondst": ""
+      },
+      "species": [
+        {
+          "DiersoortID": "910",
+          "Opmerking": "een slak"
+        }
+      ],
+      "publications": []
+    }
+  ]
+}
